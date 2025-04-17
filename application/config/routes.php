@@ -93,7 +93,5 @@ $route['peminjaman/laporan'] = 'peminjaman/laporan';
 $route['peminjaman/cetak'] = 'peminjaman/cetak';
 $route['peminjaman/pdf'] = 'peminjaman/pdf';
 
-
-
 // Route untuk autocomplete (jika diperlukan)
 $route['api/barang'] = 'api/barang';
